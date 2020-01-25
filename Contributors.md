@@ -20,6 +20,7 @@
 - Paul Kang (https://github.com/pkang29)
 - Samyak Shreyash (https://github.com/SamyakHacker)
 - Balaji Soundararajan (https://github.com/soundarb)
+- Gabriela S (https://github.com/Gabrielasu)
 - Andrew O'Brien (https://github.com/alo9507)
 - Sanjay Singh Bisht (https://github.com/SANJAY072000)
 - Paul Dill (https://github.com/Dillweed5446)
